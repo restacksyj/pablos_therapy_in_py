@@ -21,7 +21,7 @@ If you are here, check out the Flutter app we made for this
 1. Provide a system arhitecture
 2. Move the code to Golang for efficient audio transmission over wire
 
-This wouldn't be possible without the valubale contributions by my team members
+This wouldn't be possible without the valubale contributions by my team members <br/>
 [Smit Uplenchwar](https://github.com/smituplenchwar2687)
 [Sachin Kulkarni](https://github.com/SachinNagrajK)
 [Pratik Fandade](https://github.com/PratikFandade)
